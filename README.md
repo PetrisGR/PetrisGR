@@ -1,7 +1,29 @@
-# Hey, I'm Stamatis Petris 👋 [![](https://visitcount.itsvg.in/api?id=PetrisGR&icon=0&color=1)](https://visitcount.itsvg.in)
+<h2 align="center">Hey, I'm Stamatis Petris 👋</h2>
 
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PetrisGR&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrisGR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PetrisGR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PetrisGR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=petris15&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/PetrisGR/PetrisGR/output/snake.svg" alt="Snake animation" />
+
+###
