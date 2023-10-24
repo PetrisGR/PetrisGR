@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
 </div>
 
 ###
