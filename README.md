@@ -1,5 +1,5 @@
 # Stamatis Petris (PetrisGR)
-### Cybersecurity & Software Engineering Student
+### Cybersecurity Student
 
 ---
 
