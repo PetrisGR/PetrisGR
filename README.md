@@ -1,6 +1,6 @@
 <h1 align="center">Stamatis Petris</h1>
 
-<p align="center">Cyber Security Analyst · Athens, Greece</p>
+<p align="center">Cyber Security Professional · Athens, Greece</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/petris15/">LinkedIn</a>
